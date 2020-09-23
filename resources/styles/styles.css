@@ -1,0 +1,20 @@
+nav{
+  text-decoration: none;
+  background-color: black;
+  text-align: center;
+  font-size: 30px;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+nav:hover{
+  color: red;
+}
+
+body{
+  background-color: blue;
+}
